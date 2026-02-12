@@ -1,6 +1,6 @@
 # Meta Ad Performance Dashboard 📊
 
-![Dashboard Overview](image_0b4301.jpg) 
+<img width="1286" height="720" alt="image" src="https://github.com/user-attachments/assets/d06c5c78-dac9-4b0c-8b2e-47e9987839ce" />
 
 ## 📝 Project Description
 The **Meta Ad Performance Dashboard** is a comprehensive data visualization solution designed to centralize marketing analytics from **Facebook** and **Instagram**. This project transforms complex advertising data into a streamlined, interactive interface, allowing marketing teams to track a **$2.54M total budget** with precision.
